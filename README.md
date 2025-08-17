@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Lener Augusto Nil Huamán Perales
 
-<img alt="web" src="https://imgur.com/a/vjzammU" />
+<img alt="web" src="https://imgur.com/1MMQwht.png" />
 
 🎓 **Ingeniero de Sistemas** | 💻 **Desarrollador Web & Analista de Datos**  
 Soy un egresado apasionado por la tecnología y el aprendizaje continuo. Disfruto creando soluciones funcionales con enfoque limpio y profesional, tanto en desarrollo frontend como en análisis de datos.
