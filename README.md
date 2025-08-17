@@ -14,7 +14,7 @@ Soy un egresado apasionado por la tecnología y el aprendizaje continuo. Disfrut
 <a href="https://github.com/LenerCodeLab" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" alt="lenerhuamanperales" height="30px" style="margin-right: 10px;"/></a>
 <a href="mailto:huamanperales@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat" alt="lenerhuamanperales" height="30px" style="margin-right: 10px;"/></a>
 <a href = "https://lenercodelab.github.io/Portafolio/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=fff&style=flat" alt="@lenerhuamanperales" height="30px" style="margin-right: 10px;"/></a>
-<a href = "[https://lenercodelab.github.io/Portafolio/](https://www.tiktok.com/@dev_nil0?is_from_webapp=1&sender_device=pc)" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=fff&style=flat" alt="@lenerhuamanperales" height="30px" style="margin-right: 10px;"/></a>
+<a href = "https://www.tiktok.com/@dev_nil0?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=fff&style=flat" alt="@lenerhuamanperales" height="30px" style="margin-right: 10px;"/></a>
   </p>
 <br>
 
